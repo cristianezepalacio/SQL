@@ -1,19 +1,19 @@
-## 📂 Estructura de la Segunda Entrega
-Para facilitar la corrección, se detallan los archivos correspondientes a la entrega actual:
+# Proyecto Final: Sabores del Norte
+Sistema de Gestión para Local de Empanadas.
 
-1. 📄 **[Documentación Integradora](Entrega2_PalacioCristian.pdf):** Archivo PDF con la descripción detallada de Vistas, Funciones, Stored Procedures y Triggers (incluye también la Primera Entrega).
-2. ⚙️ **[Script de Objetos](Script_Objetos_BD_PalacioCristian.sql):** Contiene todas las sentencias de definición (DDL) para la creación de los objetos de la base de datos.
-3. 📊 **[Script de Inserción de Datos](Script_Insercion_Datos_PalacioCristian.sql):** Script para la carga de datos de prueba necesarios para validar el funcionamiento del sistema.
+## 📋 Descripción del Proyecto
+Este proyecto consiste en el diseño e implementación de una base de datos relacional para la gestión operativa, comercial y analítica de "Sabores del Norte".
+
+## 📁 Estructura de la entrega
+- **PALACIOCRISTIAN.sql**: Script completo que incluye estructura, objetos (Vistas, SP, Funciones, Triggers) y datos de inserción.
+- **Proyecto_Final_Sabores_Del_Norte.pdf**: Documentación completa que incluye el modelo de negocio, diagrama E-R, análisis y gráficos de resultados.
+
+## 🚀 Cómo ejecutar el proyecto
+1. Clonar el repositorio o descargar los archivos.
+2. Abrir MySQL Workbench.
+3. Ejecutar el archivo `.sql` en una nueva query.
+4. Consultar las vistas para ver los resultados analíticos.
 
 ---
-
-## 🚀 Instrucciones de Ejecución
-Para garantizar el correcto funcionamiento, se recomienda seguir este orden:
-1. Ejecutar el script de creación de tablas (de la primera entrega).
-2. Ejecutar el archivo `Script_Objetos_BD_PalacioCristian.sql`.
-3. Ejecutar el archivo `Script_Insercion_Datos_PalacioCristian.sql`.
-
----
-
-### 🕒 Histórico
-* Los archivos con el prefijo `palaciocristian-PARTE...` corresponden a la entrega parcial anterior.
+*Autor: Cristian Palacio*
+*Curso: SQL Coderhouse*
